@@ -1,5 +1,15 @@
 [
   {
+    "id": 66,
+    "title": "Plus One",
+    "title_slug": "plus-one",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Math"
+    ]
+  },
+  {
     "id": 1848,
     "title": "Minimum Distance to the Target Element",
     "title_slug": "minimum-distance-to-the-target-element",
