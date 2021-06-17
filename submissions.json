@@ -10,6 +10,16 @@
     ]
   },
   {
+    "id": 344,
+    "title": "Reverse String",
+    "title_slug": "reverse-string",
+    "difficulty": "Easy",
+    "skills": [
+      "String",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 1848,
     "title": "Minimum Distance to the Target Element",
     "title_slug": "minimum-distance-to-the-target-element",
