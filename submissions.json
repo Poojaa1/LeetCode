@@ -20,6 +20,15 @@
     ]
   },
   {
+    "id": 1108,
+    "title": "Defanging an IP Address",
+    "title_slug": "defanging-an-ip-address",
+    "difficulty": "Easy",
+    "skills": [
+      "String"
+    ]
+  },
+  {
     "id": 1848,
     "title": "Minimum Distance to the Target Element",
     "title_slug": "minimum-distance-to-the-target-element",
