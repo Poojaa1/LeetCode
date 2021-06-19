@@ -29,6 +29,15 @@
     ]
   },
   {
+    "id": 1470,
+    "title": "Shuffle the Array",
+    "title_slug": "shuffle-the-array",
+    "difficulty": "Easy",
+    "skills": [
+      "Array"
+    ]
+  },
+  {
     "id": 1848,
     "title": "Minimum Distance to the Target Element",
     "title_slug": "minimum-distance-to-the-target-element",
