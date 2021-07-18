@@ -20,6 +20,17 @@
     ]
   },
   {
+    "id": 700,
+    "title": "Search in a Binary Search Tree",
+    "title_slug": "search-in-a-binary-search-tree",
+    "difficulty": "Easy",
+    "skills": [
+      "Binary Search Tree",
+      "Binary Tree",
+      "Tree"
+    ]
+  },
+  {
     "id": 1108,
     "title": "Defanging an IP Address",
     "title_slug": "defanging-an-ip-address",
