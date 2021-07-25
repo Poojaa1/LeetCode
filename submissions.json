@@ -94,6 +94,15 @@
     ]
   },
   {
+    "id": 196,
+    "title": "Delete Duplicate Emails",
+    "title_slug": "delete-duplicate-emails",
+    "difficulty": "Easy",
+    "skills": [
+      "Database"
+    ]
+  },
+  {
     "id": 225,
     "title": "Implement Stack using Queues",
     "title_slug": "implement-stack-using-queues",
