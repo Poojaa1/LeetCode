@@ -67,6 +67,15 @@
     ]
   },
   {
+    "id": 178,
+    "title": "Rank Scores",
+    "title_slug": "rank-scores",
+    "difficulty": "Medium",
+    "skills": [
+      "Database"
+    ]
+  },
+  {
     "id": 225,
     "title": "Implement Stack using Queues",
     "title_slug": "implement-stack-using-queues",
