@@ -175,6 +175,18 @@
     ]
   },
   {
+    "id": 1512,
+    "title": "Number of Good Pairs",
+    "title_slug": "number-of-good-pairs",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Counting",
+      "Hash Table",
+      "Math"
+    ]
+  },
+  {
     "id": 1848,
     "title": "Minimum Distance to the Target Element",
     "title_slug": "minimum-distance-to-the-target-element",
