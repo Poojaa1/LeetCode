@@ -49,6 +49,15 @@
     ]
   },
   {
+    "id": 176,
+    "title": "Second Highest Salary",
+    "title_slug": "second-highest-salary",
+    "difficulty": "Medium",
+    "skills": [
+      "Database"
+    ]
+  },
+  {
     "id": 225,
     "title": "Implement Stack using Queues",
     "title_slug": "implement-stack-using-queues",
