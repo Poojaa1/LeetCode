@@ -197,6 +197,19 @@
     ]
   },
   {
+    "id": 1684,
+    "title": "Count the Number of Consistent Strings",
+    "title_slug": "count-the-number-of-consistent-strings",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Bit Manipulation",
+      "Counting",
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
     "id": 1832,
     "title": "Check if the Sentence Is Pangram",
     "title_slug": "check-if-the-sentence-is-pangram",
