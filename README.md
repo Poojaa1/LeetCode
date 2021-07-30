@@ -8,6 +8,7 @@
 | 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | Easy | `Stack` `String` |
 | 0053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | Medium | `Array` `Divide and Conquer` `Dynamic Programming` |
 | 0066 | [Plus One](https://leetcode.com/problems/plus-one) | Easy | `Array` `Math` |
+| 0094 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | Easy | `Binary Tree` `Depth-First Search` `Stack` `Tree` |
 | 0175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables) | Easy | `Database` |
 | 0176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary) | Medium | `Database` |
 | 0177 | [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary) | Medium | `Database` |
