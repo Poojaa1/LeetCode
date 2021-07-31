@@ -179,6 +179,16 @@
     ]
   },
   {
+    "id": 796,
+    "title": "Rotate String",
+    "title_slug": "rotate-string",
+    "difficulty": "Easy",
+    "skills": [
+      "String",
+      "String Matching"
+    ]
+  },
+  {
     "id": 1108,
     "title": "Defanging an IP Address",
     "title_slug": "defanging-an-ip-address",
