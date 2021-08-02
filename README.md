@@ -6,6 +6,7 @@
 |---| ----- | ---------- | ------ |
 | 0007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer) | Medium | `Math` |
 | 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | Easy | `Stack` `String` |
+| 0028 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string) | Easy | `String` `String Matching` `Two Pointers` |
 | 0053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | Medium | `Array` `Divide and Conquer` `Dynamic Programming` |
 | 0066 | [Plus One](https://leetcode.com/problems/plus-one) | Easy | `Array` `Math` |
 | 0094 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | Easy | `Binary Tree` `Depth-First Search` `Stack` `Tree` |
