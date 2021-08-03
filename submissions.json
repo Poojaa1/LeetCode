@@ -209,6 +209,16 @@
     ]
   },
   {
+    "id": 1200,
+    "title": "Minimum Absolute Difference",
+    "title_slug": "minimum-absolute-difference",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
     "id": 1346,
     "title": "Check If N and Its Double Exist",
     "title_slug": "check-if-n-and-its-double-exist",
