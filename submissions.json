@@ -297,6 +297,16 @@
     ]
   },
   {
+    "id": 1859,
+    "title": "Sorting the Sentence",
+    "title_slug": "sorting-the-sentence",
+    "difficulty": "Easy",
+    "skills": [
+      "Sorting",
+      "String"
+    ]
+  },
+  {
     "id": 1876,
     "title": "Substrings of Size Three with Distinct Characters",
     "title_slug": "substrings-of-size-three-with-distinct-characters",
