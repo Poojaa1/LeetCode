@@ -42,3 +42,4 @@
 | 1848 | [Minimum Distance to the Target Element](https://leetcode.com/problems/minimum-distance-to-the-target-element) | Easy | `Array` |
 | 1859 | [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence) | Easy | `Sorting` `String` |
 | 1876 | [Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters) | Easy | `Counting` `Hash Table` `Sliding Window` `String` |
+| 1920 | [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation) | Easy | `Array` `Simulation` |
