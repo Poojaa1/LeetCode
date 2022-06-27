@@ -6,6 +6,7 @@
 |---| ----- | ---------- | ------ |
 | 0007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer) | Medium | `Math` |
 | 0009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number) | Easy | `Math` |
+| 0013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer) | Easy | `Hash Table` `Math` `String` |
 | 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | Easy | `Stack` `String` |
 | 0027 | [Remove Element](https://leetcode.com/problems/remove-element) | Easy | `Array` `Two Pointers` |
 | 0028 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string) | Easy | `String` `String Matching` `Two Pointers` |
