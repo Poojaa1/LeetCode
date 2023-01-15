@@ -123,6 +123,16 @@
     ]
   },
   {
+    "id": 136,
+    "title": "Single Number",
+    "title_slug": "single-number",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Bit Manipulation"
+    ]
+  },
+  {
     "id": 142,
     "title": "Linked List Cycle II",
     "title_slug": "linked-list-cycle-ii",
