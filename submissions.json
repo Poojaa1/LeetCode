@@ -259,6 +259,17 @@
     ]
   },
   {
+    "id": 392,
+    "title": "Is Subsequence",
+    "title_slug": "is-subsequence",
+    "difficulty": "Easy",
+    "skills": [
+      "Dynamic Programming",
+      "String",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 459,
     "title": "Repeated Substring Pattern",
     "title_slug": "repeated-substring-pattern",
