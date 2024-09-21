@@ -604,6 +604,16 @@
     ]
   },
   {
+    "id": 1290,
+    "title": "Convert Binary Number in a Linked List to Integer",
+    "title_slug": "convert-binary-number-in-a-linked-list-to-integer",
+    "difficulty": "Easy",
+    "skills": [
+      "Linked List",
+      "Math"
+    ]
+  },
+  {
     "id": 1346,
     "title": "Check If N and Its Double Exist",
     "title_slug": "check-if-n-and-its-double-exist",

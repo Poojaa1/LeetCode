@@ -62,6 +62,7 @@
 | 0977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array) | Easy | `Array` `Sorting` `Two Pointers` |
 | 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address) | Easy | `String` |
 | 1200 | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference) | Easy | `Array` `Sorting` |
+| 1290 | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer) | Easy | `Linked List` `Math` |
 | 1346 | [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist) | Easy | `Array` `Binary Search` `Hash Table` `Sorting` `Two Pointers` |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number) | Easy | `Array` `Counting` `Hash Table` `Sorting` |
 | 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array) | Easy | `Array` |
