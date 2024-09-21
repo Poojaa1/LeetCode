@@ -26,6 +26,7 @@
 | 0136 | [Single Number](https://leetcode.com/problems/single-number) | Easy | `Array` `Bit Manipulation` |
 | 0141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | Easy | `Hash Table` `Linked List` `Two Pointers` |
 | 0142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii) | Medium | `Hash Table` `Linked List` `Two Pointers` |
+| 0160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) | Easy | `Hash Table` `Linked List` `Two Pointers` |
 | 0169 | [Majority Element](https://leetcode.com/problems/majority-element) | Easy | `Array` `Counting` `Divide and Conquer` `Hash Table` `Sorting` |
 | 0175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables) | Easy | `Database` |
 | 0176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary) | Medium | `Database` |
