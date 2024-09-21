@@ -141,6 +141,16 @@
     ]
   },
   {
+    "id": 69,
+    "title": "Sqrt(x)",
+    "title_slug": "sqrtx",
+    "difficulty": "Easy",
+    "skills": [
+      "Binary Search",
+      "Math"
+    ]
+  },
+  {
     "id": 75,
     "title": "Sort Colors",
     "title_slug": "sort-colors",
