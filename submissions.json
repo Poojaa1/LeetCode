@@ -552,6 +552,16 @@
     ]
   },
   {
+    "id": 876,
+    "title": "Middle of the Linked List",
+    "title_slug": "middle-of-the-linked-list",
+    "difficulty": "Easy",
+    "skills": [
+      "Linked List",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 942,
     "title": "DI String Match",
     "title_slug": "di-string-match",

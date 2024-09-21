@@ -57,6 +57,7 @@
 | 0704 | [Binary Search](https://leetcode.com/problems/binary-search) | Easy | `Array` `Binary Search` |
 | 0771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones) | Easy | `Hash Table` `String` |
 | 0796 | [Rotate String](https://leetcode.com/problems/rotate-string) | Easy | `String` `String Matching` |
+| 0876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | Easy | `Linked List` `Two Pointers` |
 | 0942 | [DI String Match](https://leetcode.com/problems/di-string-match) | Easy | `Array` `Greedy` `String` `Two Pointers` |
 | 0977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array) | Easy | `Array` `Sorting` `Two Pointers` |
 | 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address) | Easy | `String` |
