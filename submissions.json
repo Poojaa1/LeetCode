@@ -783,5 +783,14 @@
       "Array",
       "String"
     ]
+  },
+  {
+    "id": 2239,
+    "title": "Find Closest Number to Zero",
+    "title_slug": "find-closest-number-to-zero",
+    "difficulty": "Easy",
+    "skills": [
+      "Array"
+    ]
   }
 ]
