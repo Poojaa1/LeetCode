@@ -703,6 +703,16 @@
     ]
   },
   {
+    "id": 1768,
+    "title": "Merge Strings Alternately",
+    "title_slug": "merge-strings-alternately",
+    "difficulty": "Easy",
+    "skills": [
+      "String",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 1832,
     "title": "Check if the Sentence Is Pangram",
     "title_slug": "check-if-the-sentence-is-pangram",
